@@ -1,0 +1,137 @@
+body
+{
+    background: #fff;
+    
+}
+.top-nav-bar
+{
+    background-color: rgb(87, 245, 245);
+    border-bottom: 3px solid rgb(1, 1, 114);
+    font-family: cursive;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+}
+.intro
+{
+    border: #e7dafc;
+    border-color: black;
+    border-bottom: 10px;
+    font-family: cursive;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+
+.sajek
+{
+    background: #e7dafc;
+    font-family: cursive;
+    margin: 50px;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 18px;
+    
+}
+.h3-sajek
+{
+    color: cornflowerblue;
+    font-family: serif;
+    font-size: 40px;
+    text-align: left;
+    margin-left: 30px;
+}
+.img-sajek
+{
+  float: left;
+  margin: 30px;
+}
+.ratargul
+{
+    background: #bdeec091;
+    font-family: cursive;
+    margin: 50px;
+    border-radius: 10px;
+    padding: 30px;
+    font-size: 18px;
+}
+.h3-ratargul
+{
+    color: rgb(8, 75, 34);
+    font-family: serif;
+    font-size: 22px;
+    text-align: center;
+}
+.img-ratargul
+{
+    float: right;
+    margin: 30px;
+
+}
+    
+.lalakhal
+{
+    background: #7bfaf444;
+    font-family: cursive;
+    margin: 70px;
+    border-radius: 40px;
+    padding: 50px;
+    font-size: 18px;
+    
+}
+.h3-lalakhal
+{
+    color: rgba(8, 32, 32, 0.555);
+    font-family: serif;
+    font-size: 20px;
+}
+.img-lalakhal
+{
+    float: center;
+    padding-left: 300px;
+}
+.sreemangal
+{
+    background: #9af77ead;
+    font-family: cursive;
+    margin: 70px;
+    border-radius: 40px;
+    padding: 50px;
+    font-size: 18px;
+    
+}
+.h3-sreemangal
+{
+    color: cornflowerblue;
+    font-family: serif;
+    font-size: 20px;
+}
+.img-sreemangal
+{
+    float: rigt;
+    margin: 20px;
+}
+.jaflong
+{
+    background: #c39eff73;
+    font-family: cursive;
+    margin: 70px;
+    text-align: center;
+    border-radius: 40px;
+    padding: 50px;
+    font-size: 18;
+    
+}
+.h3-jaflong
+{
+    color: cornflowerblue;
+    font-family: serif;
+    font-size: 20px;
+}
+.jaflong.jpg
+{
+    
+    margin: 30px;
+}
